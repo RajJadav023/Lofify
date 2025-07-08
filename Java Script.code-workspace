@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"name": "Java Script",
+			"path": "."
+		},
+		{
+			"name": "songs",
+			"path": "songs"
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5501,
+		"liveServer.settings.multiRootWorkspaceName": "Java Script"
+	}
+}
